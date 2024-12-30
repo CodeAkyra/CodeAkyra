@@ -14,5 +14,7 @@
   <a href="https://nodejs.org/en"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" style="height: 50px;"></a>
   <a href="https://www.mysql.com/"><img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" style="height: 50px;"></a>
   <a href="https://code.visualstudio.com/"><img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" style="height: 50px;"></a>
+  <a href="https://www.figma.com/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="height: 50px;"></a>
+  <a href="https://github.com/CodeAkyra"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="height: 50px;"></a>
 </div>
 
