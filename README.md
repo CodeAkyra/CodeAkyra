@@ -2,7 +2,7 @@
 
 - 🎯 I'm currently focused on React.JS
 - 🌱 I’m currently learning React.JS
-- 📫 How to reach me: mogcpizarra33@gmail.com
+- 📫 How to reach me: mogcpizarra33@gmail.com or mogpizarra33@gmail.com
 
 <h1>Languages and Tools:</h1>
 <div>
