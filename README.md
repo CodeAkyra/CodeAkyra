@@ -2,8 +2,8 @@
 <p align="center"><strong>Primarily focused on front-end development, while actively exploring new tools and technologies to broaden my expertise.</strong></p>
 
 
-- 🎯 I'm currently focused on React.JS
-- 🌱 I’m currently learning React.JS
+- 🎯 I'm currently focused on React.JS and PHP
+- 🌱 I’m currently learning React.JS and PHP
 - 📫 How to reach me: mogcpizarra33@gmail.com or mogpizarra33@gmail.com
 
 <h1 align="center">Languages and Tools:</h1>
