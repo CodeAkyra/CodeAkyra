@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Mark Orlando Gabriel Pizarra a.k.a CodeAkyra</h1>
 <p align="center"><strong>Primarily focused on front-end development, while actively exploring new tools and technologies to broaden my expertise.</strong></p>
 
+screw React.js
 
-- 🎯 I'm currently focused on React.JS and PHP
-- 🌱 I’m currently learning React.JS and PHP
+- 🎯 I'm currently focused on Laravel and PHP
+- 🌱 I’m currently learning Laravel and PHP
 - 📫 How to reach me: mogcpizarra33@gmail.com or mogpizarra33@gmail.com
 - https://mark-orlando-gabriel-pizarra.vercel.app/
 
