@@ -21,4 +21,6 @@ screw React.js
   <a href="https://code.visualstudio.com/"><img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" style="height: 50px;"></a>
   <a href="https://www.figma.com/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="height: 50px;"></a>
   <a href="https://github.com/CodeAkyra"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="height: 50px;"></a>
+  <a href="https://git-scm.com/"><img src="hhttps://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="height: 50px;"></a>
 </div>
+
