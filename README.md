@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mark Orlando Gabriel Pizarra a.k.a CodeAkyra</h1>
-<p align="center"><strong>Primarily focused on front-end development, while actively exploring new tools and technologies to broaden my expertise.</strong></p>
+<p align="center"><strong>Primarily focused on back-end development, while actively exploring new tools and technologies to broaden my expertise.</strong></p>
 
 screw React.js
 
