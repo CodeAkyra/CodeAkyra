@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mark Orlando Gabriel Pizarra a.k.a CodeAkyra</h1>
 <!-- <p align="center"><strong>Primarily focused on back-end development, while actively exploring new tools and technologies to broaden my expertise.</strong></p> -->
 
-- 🎯 I'm currently focused on CCNA and CompTIA Security+
-- 📫 How to reach me: mogcpizarra33@gmail.com or mogpizarra33@gmail.com
+- Cisco Certified Network Associate
+https://cp.certmetrics.com/cisco/en/public/verify/credential/ZKW3YXDJB430V06J
 <!-- - https://mark-orlando-gabriel-pizarra.vercel.app/ -->
 
 
