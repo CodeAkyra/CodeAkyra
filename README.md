@@ -1,8 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Mark Orlando Gabriel Pizarra a.k.a CodeAkyra</h1>
 <!-- <p align="center"><strong>Primarily focused on back-end development, while actively exploring new tools and technologies to broaden my expertise.</strong></p> -->
 
-- Cisco Certified Network Associate
-https://cp.certmetrics.com/cisco/en/public/verify/credential/ZKW3YXDJB430V06J
+# 🎓 Certifications
+### Cisco Certified Network Associate (CCNA) April 11, 2026
+### Verify Credential: https://cp.certmetrics.com/cisco/en/public/verify/credential/ZKW3YXDJB430V06J
+___
+### Cisco Certified Network Professional (CCNP) Enterprise
+### Status: In Progress (Targeting Exam 350-401 ENCOR)
+
 <!-- - https://mark-orlando-gabriel-pizarra.vercel.app/ -->
 
 
