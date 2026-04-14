@@ -7,6 +7,8 @@
 <!-- Cisco certification badge used with authorization as a certified credential holder. Badge trademark and image © Cisco Systems, Inc. -->
 > **April 11, 2025** • [Verify](https://cp.certmetrics.com/cisco/en/public/verify/credential/ZKW3YXDJB430V06J)
 
+### 📅 Juniper Networks Certified Associate (JNCIA) - Junos
+> **Planned** • Exam JN0-104 • IDK yet
 ---
 
 ### 🎯 Cisco Certified Network Professional (CCNP) Enterprise
@@ -15,7 +17,7 @@
 ---
 
 ### 📅 Cisco Certified Internetwork Expert (CCIE)
-> **Planned** • Data Center or Enterprise Infrastructure • Timeline: 5-10 years
+> **Planned** • Data Center or Enterprise Infrastructure • Timeline: 5-10 years END GAME!!!
 
 <!-- - https://mark-orlando-gabriel-pizarra.vercel.app/ portfolio site inactive, I don't have any plans updating the site for now-->
 
